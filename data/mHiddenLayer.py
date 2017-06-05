@@ -6,7 +6,6 @@
 """
 
 import numpy as np
-
 import theano
 import theano.tensor as T
 
@@ -16,13 +15,14 @@ class HiddenLayer(object):
         
         # init W, b
         if W is None:
-            bound = sqrt( 6.0/(n_in + n_out )) ;
+            bound = np.sqrt( 6.0/(n_in + n_out )) ;
             Wr = rng.uniform( low = -bound, high = bound,size=(n_in, n_out))
             Wv = np.asarray( Wr, dtype = theano.config.floatX)
-            W = T.shared( value = Wv, name='W', borrow=True)
+            
+            W = theano.shared( value = Wv, name='W', borrow=True)
         if b is None:
             bv = np.zeros( (n_out,), dtype=theano.config.floatX )    
-            b = T.shared(value=b, name='b',borrow=True)
+            b = theano.shared(value= bv, name='b',borrow=True)
         self.W = W
         self.b = b    
         
@@ -31,6 +31,7 @@ class HiddenLayer(object):
                         else activation( lin_output )
                       )
         
+        self.input = input
         self.params = [self.W, self.b]
         
         

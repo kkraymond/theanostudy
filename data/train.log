@@ -1,0 +1,190 @@
+('trainset data_x', 50000, <type 'numpy.ndarray'>, dtype('float32'))
+('trainset data_y', 50000)
+...building the model
+....start training....
+validation_frequency 2500.000000 
+epoch 1, minibatch 2500/2500, validation_loss 9.620000 %
+epoch 1, minibatch 2500/2500, test error 10.090000 %. Update best validation loss.
+epoch 2, minibatch 2500/2500, validation_loss 8.610000 %
+epoch 2, minibatch 2500/2500, test error 8.740000 %. Update best validation loss.
+epoch 3, minibatch 2500/2500, validation_loss 8.000000 %
+epoch 3, minibatch 2500/2500, test error 8.160000 %. Update best validation loss.
+epoch 4, minibatch 2500/2500, validation_loss 7.600000 %
+epoch 4, minibatch 2500/2500, test error 7.790000 %. Update best validation loss.
+epoch 5, minibatch 2500/2500, validation_loss 7.300000 %
+epoch 5, minibatch 2500/2500, test error 7.590000 %. Update best validation loss.
+epoch 6, minibatch 2500/2500, validation_loss 7.020000 %
+epoch 6, minibatch 2500/2500, test error 7.200000 %. Update best validation loss.
+epoch 7, minibatch 2500/2500, validation_loss 6.680000 %
+epoch 7, minibatch 2500/2500, test error 6.990000 %. Update best validation loss.
+epoch 8, minibatch 2500/2500, validation_loss 6.260000 %
+epoch 8, minibatch 2500/2500, test error 6.730000 %. Update best validation loss.
+epoch 9, minibatch 2500/2500, validation_loss 5.970000 %
+epoch 9, minibatch 2500/2500, test error 6.510000 %. Update best validation loss.
+epoch 10, minibatch 2500/2500, validation_loss 5.740000 %
+epoch 10, minibatch 2500/2500, test error 6.190000 %. Update best validation loss.
+epoch 11, minibatch 2500/2500, validation_loss 5.400000 %
+epoch 11, minibatch 2500/2500, test error 5.900000 %. Update best validation loss.
+epoch 12, minibatch 2500/2500, validation_loss 5.080000 %
+epoch 12, minibatch 2500/2500, test error 5.600000 %. Update best validation loss.
+epoch 13, minibatch 2500/2500, validation_loss 4.820000 %
+epoch 13, minibatch 2500/2500, test error 5.400000 %. Update best validation loss.
+epoch 14, minibatch 2500/2500, validation_loss 4.690000 %
+epoch 14, minibatch 2500/2500, test error 5.280000 %. Update best validation loss.
+epoch 15, minibatch 2500/2500, validation_loss 4.470000 %
+epoch 15, minibatch 2500/2500, test error 5.140000 %. Update best validation loss.
+epoch 16, minibatch 2500/2500, validation_loss 4.350000 %
+epoch 16, minibatch 2500/2500, test error 4.890000 %. Update best validation loss.
+epoch 17, minibatch 2500/2500, validation_loss 4.130000 %
+epoch 17, minibatch 2500/2500, test error 4.700000 %. Update best validation loss.
+epoch 18, minibatch 2500/2500, validation_loss 4.040000 %
+epoch 18, minibatch 2500/2500, test error 4.540000 %. Update best validation loss.
+epoch 19, minibatch 2500/2500, validation_loss 3.910000 %
+epoch 19, minibatch 2500/2500, test error 4.420000 %. Update best validation loss.
+epoch 20, minibatch 2500/2500, validation_loss 3.780000 %
+epoch 20, minibatch 2500/2500, test error 4.260000 %. Update best validation loss.
+epoch 21, minibatch 2500/2500, validation_loss 3.700000 %
+epoch 21, minibatch 2500/2500, test error 4.150000 %. Update best validation loss.
+epoch 22, minibatch 2500/2500, validation_loss 3.610000 %
+epoch 22, minibatch 2500/2500, test error 4.000000 %. Update best validation loss.
+epoch 23, minibatch 2500/2500, validation_loss 3.540000 %
+epoch 23, minibatch 2500/2500, test error 3.910000 %. Update best validation loss.
+epoch 24, minibatch 2500/2500, validation_loss 3.480000 %
+epoch 24, minibatch 2500/2500, test error 3.790000 %. Update best validation loss.
+epoch 25, minibatch 2500/2500, validation_loss 3.400000 %
+epoch 25, minibatch 2500/2500, test error 3.710000 %. Update best validation loss.
+epoch 26, minibatch 2500/2500, validation_loss 3.350000 %
+epoch 26, minibatch 2500/2500, test error 3.650000 %. Update best validation loss.
+epoch 27, minibatch 2500/2500, validation_loss 3.260000 %
+epoch 27, minibatch 2500/2500, test error 3.570000 %. Update best validation loss.
+epoch 28, minibatch 2500/2500, validation_loss 3.270000 %
+epoch 29, minibatch 2500/2500, validation_loss 3.240000 %
+epoch 29, minibatch 2500/2500, test error 3.440000 %. Update best validation loss.
+epoch 30, minibatch 2500/2500, validation_loss 3.190000 %
+epoch 30, minibatch 2500/2500, test error 3.370000 %. Update best validation loss.
+epoch 31, minibatch 2500/2500, validation_loss 3.160000 %
+epoch 31, minibatch 2500/2500, test error 3.330000 %. Update best validation loss.
+epoch 32, minibatch 2500/2500, validation_loss 3.090000 %
+epoch 32, minibatch 2500/2500, test error 3.250000 %. Update best validation loss.
+epoch 33, minibatch 2500/2500, validation_loss 3.050000 %
+epoch 33, minibatch 2500/2500, test error 3.170000 %. Update best validation loss.
+epoch 34, minibatch 2500/2500, validation_loss 3.030000 %
+epoch 34, minibatch 2500/2500, test error 3.160000 %. Update best validation loss.
+epoch 35, minibatch 2500/2500, validation_loss 3.020000 %
+epoch 35, minibatch 2500/2500, test error 3.150000 %. Update best validation loss.
+epoch 36, minibatch 2500/2500, validation_loss 2.970000 %
+epoch 36, minibatch 2500/2500, test error 3.090000 %. Update best validation loss.
+epoch 37, minibatch 2500/2500, validation_loss 2.940000 %
+epoch 37, minibatch 2500/2500, test error 3.040000 %. Update best validation loss.
+epoch 38, minibatch 2500/2500, validation_loss 2.910000 %
+epoch 38, minibatch 2500/2500, test error 3.000000 %. Update best validation loss.
+epoch 39, minibatch 2500/2500, validation_loss 2.880000 %
+epoch 39, minibatch 2500/2500, test error 2.980000 %. Update best validation loss.
+epoch 40, minibatch 2500/2500, validation_loss 2.850000 %
+epoch 40, minibatch 2500/2500, test error 2.920000 %. Update best validation loss.
+epoch 41, minibatch 2500/2500, validation_loss 2.810000 %
+epoch 41, minibatch 2500/2500, test error 2.860000 %. Update best validation loss.
+epoch 42, minibatch 2500/2500, validation_loss 2.800000 %
+epoch 42, minibatch 2500/2500, test error 2.840000 %. Update best validation loss.
+epoch 43, minibatch 2500/2500, validation_loss 2.780000 %
+epoch 43, minibatch 2500/2500, test error 2.820000 %. Update best validation loss.
+epoch 44, minibatch 2500/2500, validation_loss 2.760000 %
+epoch 44, minibatch 2500/2500, test error 2.780000 %. Update best validation loss.
+epoch 45, minibatch 2500/2500, validation_loss 2.720000 %
+epoch 45, minibatch 2500/2500, test error 2.730000 %. Update best validation loss.
+epoch 46, minibatch 2500/2500, validation_loss 2.680000 %
+epoch 46, minibatch 2500/2500, test error 2.720000 %. Update best validation loss.
+epoch 47, minibatch 2500/2500, validation_loss 2.630000 %
+epoch 47, minibatch 2500/2500, test error 2.690000 %. Update best validation loss.
+epoch 48, minibatch 2500/2500, validation_loss 2.610000 %
+epoch 48, minibatch 2500/2500, test error 2.690000 %. Update best validation loss.
+epoch 49, minibatch 2500/2500, validation_loss 2.580000 %
+epoch 49, minibatch 2500/2500, test error 2.680000 %. Update best validation loss.
+epoch 50, minibatch 2500/2500, validation_loss 2.560000 %
+epoch 50, minibatch 2500/2500, test error 2.630000 %. Update best validation loss.
+epoch 51, minibatch 2500/2500, validation_loss 2.560000 %
+epoch 52, minibatch 2500/2500, validation_loss 2.510000 %
+epoch 52, minibatch 2500/2500, test error 2.560000 %. Update best validation loss.
+epoch 53, minibatch 2500/2500, validation_loss 2.490000 %
+epoch 53, minibatch 2500/2500, test error 2.530000 %. Update best validation loss.
+epoch 54, minibatch 2500/2500, validation_loss 2.490000 %
+epoch 55, minibatch 2500/2500, validation_loss 2.480000 %
+epoch 55, minibatch 2500/2500, test error 2.520000 %. Update best validation loss.
+epoch 56, minibatch 2500/2500, validation_loss 2.480000 %
+epoch 57, minibatch 2500/2500, validation_loss 2.460000 %
+epoch 57, minibatch 2500/2500, test error 2.500000 %. Update best validation loss.
+epoch 58, minibatch 2500/2500, validation_loss 2.450000 %
+epoch 58, minibatch 2500/2500, test error 2.460000 %. Update best validation loss.
+epoch 59, minibatch 2500/2500, validation_loss 2.430000 %
+epoch 59, minibatch 2500/2500, test error 2.440000 %. Update best validation loss.
+epoch 60, minibatch 2500/2500, validation_loss 2.420000 %
+epoch 60, minibatch 2500/2500, test error 2.450000 %. Update best validation loss.
+epoch 61, minibatch 2500/2500, validation_loss 2.390000 %
+epoch 61, minibatch 2500/2500, test error 2.410000 %. Update best validation loss.
+epoch 62, minibatch 2500/2500, validation_loss 2.400000 %
+epoch 63, minibatch 2500/2500, validation_loss 2.400000 %
+epoch 64, minibatch 2500/2500, validation_loss 2.400000 %
+epoch 65, minibatch 2500/2500, validation_loss 2.350000 %
+epoch 65, minibatch 2500/2500, test error 2.350000 %. Update best validation loss.
+epoch 66, minibatch 2500/2500, validation_loss 2.350000 %
+epoch 67, minibatch 2500/2500, validation_loss 2.320000 %
+epoch 67, minibatch 2500/2500, test error 2.350000 %. Update best validation loss.
+epoch 68, minibatch 2500/2500, validation_loss 2.320000 %
+epoch 69, minibatch 2500/2500, validation_loss 2.320000 %
+epoch 70, minibatch 2500/2500, validation_loss 2.300000 %
+epoch 70, minibatch 2500/2500, test error 2.330000 %. Update best validation loss.
+epoch 71, minibatch 2500/2500, validation_loss 2.290000 %
+epoch 71, minibatch 2500/2500, test error 2.330000 %. Update best validation loss.
+epoch 72, minibatch 2500/2500, validation_loss 2.280000 %
+epoch 72, minibatch 2500/2500, test error 2.300000 %. Update best validation loss.
+epoch 73, minibatch 2500/2500, validation_loss 2.260000 %
+epoch 73, minibatch 2500/2500, test error 2.300000 %. Update best validation loss.
+epoch 74, minibatch 2500/2500, validation_loss 2.250000 %
+epoch 74, minibatch 2500/2500, test error 2.300000 %. Update best validation loss.
+epoch 75, minibatch 2500/2500, validation_loss 2.230000 %
+epoch 75, minibatch 2500/2500, test error 2.300000 %. Update best validation loss.
+epoch 76, minibatch 2500/2500, validation_loss 2.230000 %
+epoch 77, minibatch 2500/2500, validation_loss 2.240000 %
+epoch 78, minibatch 2500/2500, validation_loss 2.250000 %
+epoch 79, minibatch 2500/2500, validation_loss 2.220000 %
+epoch 79, minibatch 2500/2500, test error 2.290000 %. Update best validation loss.
+epoch 80, minibatch 2500/2500, validation_loss 2.210000 %
+epoch 80, minibatch 2500/2500, test error 2.260000 %. Update best validation loss.
+epoch 81, minibatch 2500/2500, validation_loss 2.200000 %
+epoch 81, minibatch 2500/2500, test error 2.250000 %. Update best validation loss.
+epoch 82, minibatch 2500/2500, validation_loss 2.190000 %
+epoch 82, minibatch 2500/2500, test error 2.240000 %. Update best validation loss.
+epoch 83, minibatch 2500/2500, validation_loss 2.190000 %
+epoch 84, minibatch 2500/2500, validation_loss 2.190000 %
+epoch 85, minibatch 2500/2500, validation_loss 2.180000 %
+epoch 85, minibatch 2500/2500, test error 2.220000 %. Update best validation loss.
+epoch 86, minibatch 2500/2500, validation_loss 2.180000 %
+epoch 87, minibatch 2500/2500, validation_loss 2.160000 %
+epoch 87, minibatch 2500/2500, test error 2.220000 %. Update best validation loss.
+epoch 88, minibatch 2500/2500, validation_loss 2.150000 %
+epoch 88, minibatch 2500/2500, test error 2.230000 %. Update best validation loss.
+epoch 89, minibatch 2500/2500, validation_loss 2.150000 %
+epoch 90, minibatch 2500/2500, validation_loss 2.160000 %
+epoch 91, minibatch 2500/2500, validation_loss 2.160000 %
+epoch 92, minibatch 2500/2500, validation_loss 2.170000 %
+epoch 93, minibatch 2500/2500, validation_loss 2.160000 %
+epoch 94, minibatch 2500/2500, validation_loss 2.160000 %
+epoch 95, minibatch 2500/2500, validation_loss 2.150000 %
+epoch 96, minibatch 2500/2500, validation_loss 2.150000 %
+epoch 97, minibatch 2500/2500, validation_loss 2.150000 %
+epoch 98, minibatch 2500/2500, validation_loss 2.140000 %
+epoch 98, minibatch 2500/2500, test error 2.190000 %. Update best validation loss.
+epoch 99, minibatch 2500/2500, validation_loss 2.140000 %
+epoch 100, minibatch 2500/2500, validation_loss 2.130000 %
+epoch 100, minibatch 2500/2500, test error 2.180000 %. Update best validation loss.
+epoch 101, minibatch 2500/2500, validation_loss 2.130000 %
+epoch 102, minibatch 2500/2500, validation_loss 2.130000 %
+epoch 103, minibatch 2500/2500, validation_loss 2.130000 %
+epoch 104, minibatch 2500/2500, validation_loss 2.120000 %
+epoch 104, minibatch 2500/2500, test error 2.170000 %. Update best validation loss.
+epoch 105, minibatch 2500/2500, validation_loss 2.120000 %
+epoch 106, minibatch 2500/2500, validation_loss 2.130000 %
+epoch 107, minibatch 2500/2500, validation_loss 2.130000 %
+epoch 108, minibatch 2500/2500, validation_loss 2.130000 %
+epoch 109, minibatch 2500/2500, validation_loss 2.130000 %
+
